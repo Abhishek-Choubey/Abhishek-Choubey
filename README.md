@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Choubey</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<h3 align="center">🌱 I’m currently learning React</h3>
-<h3 align="center">🔭 I’m currently working on my eCommerce WebApp</h3>
-<h3 align="center">👯 I’m looking to collaborate on front-end & back-end projects</h3>
-<h3 align="center">📫 How to reach me: abhishekchoubeyofficial12@gmail.com</h3>
-<h3 align="center">⚡ What I like to do: I like so much exploring new things: new Tech things and coding</h3>
-<h3 align="center">⚡ Fun fact MyCode to Me : Don't touch me otherewise you are getting tooooo much errors...</h3>
 
+🌱 I’m currently learning React
+🔭 I’m currently working on my eCommerce WebApp
+👯 I’m looking to collaborate on front-end & back-end projects
+📫 How to reach me: abhishekchoubeyofficial12@gmail.com
+⚡ What I like to do: I like so much exploring new things: new Tech things and coding
+⚡ Fun fact MyCode to Me : Don't touch me otherewise you are getting tooooo much errors...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-choubey&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-choubey" /> </p>
 

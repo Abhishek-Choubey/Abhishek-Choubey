@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Choubey</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<h3 algin="center">Web Developer (MERN stack) with 6+ months of experience in designing and developing user interfaces, testing, debugging within eCommerce technologies. Proven ability in optimizing web functionalities that improve data retrieval and workflow efficiencies. </h3>
 
-<p>🌱 I’m currently learning React</p>
+
+ <p>🌱 I’m currently learning React</p>
     <p>🔭 I’m currently working on my eCommerce WebApp</p>
     <p>👯 I’m looking to collaborate on front-end & back-end projects</p>
     <p>📫 How to reach me: abhishekchoubeyofficial12@gmail.com</p>
